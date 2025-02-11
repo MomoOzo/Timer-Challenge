@@ -1,5 +1,9 @@
 #Timer-Challenge
 
+<h2>📸 Screenshot</h2>
+<img src="screenshot.png" alt="Game Screenshot" width="600">
+<p><em>A preview of Timer-Challenge game</em></p>
+
 <h2>🕹️ How to Play</h2>
 <ul>
     <li>Enter your name in the input field and click <strong>Set Name</strong>.</li>
@@ -20,7 +24,7 @@
 <ul>
     <li><strong>HTML, CSS, JavaScript</strong> for the frontend</li>
     <li><strong>React.js</strong> for dynamic UI interactions</li>
-    <li><strong>Tailwind CSS</strong> for styling</li>
+    <li><strong>CSS</strong> for styling</li>
 </ul>
 
 <h2>🚀 Features</h2>
@@ -53,7 +57,3 @@
 
 <h2>📝 License</h2>
 <p>This project is licensed under the MIT License.</p>
-
-<h2>📸 Screenshot</h2>
-<img src="screenshot.png" alt="Game Screenshot" width="600">
-<p><em>A preview of Timer-Challenge game</em></p>
