@@ -1,5 +1,3 @@
-#Timer-Challenge
-
 <h2>📸 Screenshot</h2>
 <img src="screenshot.png" alt="Game Screenshot" width="600">
 <p><em>A preview of Timer-Challenge game</em></p>
